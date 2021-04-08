@@ -12,7 +12,7 @@ Wandb 라이브러리를 이용한 자동화
 - 그 다음 초기설정을 하면 키를 입력하라고 나오는데, 출력문에 나오는 링크로 들어가 키를 복사한 후 엔터를 하면 된다.
   -   `wandb.init()`
 
-예제 코드는 [MNIST+wandb+sweep.ipynb]()에서 확인할 수 있다! 
+예제 코드는 [MNIST+wandb+sweep.ipynb](https://github.com/Haebuk/AutoML/blob/main/MNIST%2Bwandb%2Bsweeps.ipynb)에서 확인할 수 있다! 
   -   해당 코드는 colab에서 진행하였다! 설명문을 아래 첨부하였다.
 ## AutoML Monitoring
 ### 1. tensorflow 모듈 import
