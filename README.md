@@ -146,7 +146,7 @@ config = wandb.config
 
 ### 2. train.py파일을 colab에 저장
 - colab을 사용하는 경우 해당 노트북의 코드를 train.py로 합쳐 업로드 하면 된다.
-- 자세한 코드는 [train.py]()을 참고하면 된다.
+- 자세한 코드는 [train.py](https://github.com/Haebuk/AutoML/blob/main/train.py)을 참고하면 된다.
 - .ipynb는 실행해본 결과 호환이 되지 않는 것 같다.
 
 준비 과정을 다 마쳤다면, 아래 코드를 실행해보자.
