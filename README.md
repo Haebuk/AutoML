@@ -39,7 +39,7 @@ config.dropout_rate = 0.3
 config.hidden1 = 256
 config.activation1 = 'tanh'
 ```
-- `wandb.init()`으로 프로젝트를 만들 수 있다. 본인의 wandb.ai 사이트에 프로젝트명(mnist-tf2)을 가진 워크스페이가 생성된다.
+- `wandb.init()`으로 프로젝트를 만들 수 있다. 본인의 wandb.ai 사이트에 프로젝트명(mnist-tf2)을 가진 워크스페이스가 생성된다.
 - `config`을 통해 모델 하이퍼파라미터를 변수로 지정할 수 있다. 
 ### 4. MNIST 데이터 불러오기
 ```python3
