@@ -33,4 +33,4 @@ model.fit(x_train, y_train,
 
 model.evaluate(x_test, y_test, verbose=2)
 
-#!wandb agent kade/mnist-tf2/cwxrbpl9
+
